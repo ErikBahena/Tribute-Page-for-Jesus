@@ -12,4 +12,10 @@ Hello to whoever is reading this. This is my project modeling a tribute page wit
 
 6.CSS styling such as: sticky title bar, body color, title bar, image borders, font sizes, flex display columns and centered positioning, a click-able link and hover attribute.
 
-7.Commiting current progress to GitHub.
+7.Commiting and pushing current progress to GitHub.
+
+You can see this project live at https://erikbahena.github.io/Tribute-Page-for-Jesus/
+
+Thank you for reading.
+
+Hope you enjoy!
