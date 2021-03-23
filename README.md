@@ -1,4 +1,4 @@
-Hello to whoever is reading this. This is my first project modeling a website after google's home page. This project will demonstrate the following skills:
+Hello to whoever is reading this. This is my project modeling a tribute page with a timeline about the subject. This project will demonstrate the following skills:
 
 1.Basic understanding and execution of HTML and CSS.
 
